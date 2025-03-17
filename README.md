@@ -1,4 +1,4 @@
-# Missing-Data-Analysis
+# Missing-Values-Dataset-Analysis
 
 The dataset used for this assignment is the infamous Titanic dataset which is used to teach many
 students worldwide about missing values in a dataset.
