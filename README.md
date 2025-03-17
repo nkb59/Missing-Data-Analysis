@@ -10,3 +10,6 @@ We explore different ways of handling missing values in datasets using 3 types o
 1. Linear Regression Models
 2. Tree Models
 3. Neural Networks
+
+***See the attached PDF for a comprehensive overview of this project.***
+
