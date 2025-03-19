@@ -13,5 +13,5 @@ We explore different ways of handling missing values in datasets using 3 types o
 
 ***See the attached PDF for a comprehensive overview of this project.***
 
-Python libraries used: **scikit , numpy, pandas, catboost** 
+Python libraries used: **scikit, numpy, pandas, catboost** 
 
