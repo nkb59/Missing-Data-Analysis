@@ -1,15 +1,22 @@
-# Missing-Values-Dataset-Analysis
+# Titanic Survivability Prediction
 
-The dataset used for this assignment is the infamous Titanic dataset which is used to teach many
-students worldwide about missing values in a dataset.
+This project aims to predict the survivability of passengers on the Titanic using various machine learning models, with a focus on handling missing values in the dataset.
 
-The goal of this assignment is to try and predict the survivability rate of the passengers
-dependent on different features in the dataset such as sex, age, passenger class, etc…
+## Dataset
 
-We explore different ways of handling missing values in datasets using 3 types of classifiers:
-1. Linear Regression Models
-2. Tree Models
-3. Neural Networks
+The project utilizes the classic Titanic dataset, which contains information about passengers such as age, sex, and passenger class.
+
+## Methodology
+
+We employed three types of classifiers:
+
+* **Linear Regression Models:** Logistic Regression was used.
+* **Tree Models:** Decision Trees, Random Forests, and CatBoost were utilized.
+* **Neural Networks:** A simple feedforward neural network was implemented using scikit and Keras/Tensorflow.
+
+Missing values were handled using statistical imputation and various other techniques.
+
+The evaluation metric used was accuracy.
 
 ***See the attached PDF for a comprehensive overview of this project.***
 
