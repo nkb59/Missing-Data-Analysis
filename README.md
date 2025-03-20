@@ -1,4 +1,4 @@
-# Titanic Survivability Prediction
+## Titanic Survivability Prediction
 
 This project aims to predict the survivability of passengers on the Titanic using various machine learning models, with a focus on handling missing values in the dataset.
 
