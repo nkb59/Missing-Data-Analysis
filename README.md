@@ -12,13 +12,20 @@ We employed three types of classifiers:
 
 * **Linear Regression Models:** Logistic Regression was used.
 * **Tree Models:** Decision Trees, Random Forests, and CatBoost were utilized.
-* **Neural Networks:** A simple feedforward neural network was implemented using scikit and Keras/Tensorflow.
+* **Neural Networks:** A simple feedforward neural network was implemented using `scikit-learn` and `Keras/Tensorflow`.
 
 Missing values were handled using statistical imputation and various other techniques.
 
 The evaluation metric used was accuracy.
 
+## Libraries Used
+
+* `pandas`: For data manipulation and analysis.
+* `numpy`: For numerical computations.
+* `scikit-learn`: For machine learning algorithms, preprocessing, and evaluation
+* `catboost`: For gradient boosting, particularly effective with categorical features.
+
 ***See the attached PDF for a comprehensive overview of this project.***
 
-Python libraries used: **scikit, numpy, pandas, catboost** 
+
 
